@@ -4,13 +4,54 @@ body {
     background-color: #FFFFFF;
 }
 
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 ul,
 ol {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
     list-style: none;
 } 
 
 a {
     text-decoration: none;
+    color: currentColor;
+}
+
+address{
+    font-style: normal;
+}
+
+button{
+    cursor: pointer;
+}
+
+img {
+    display: block;
+}
+
+.container {
+    width: 1158px;
+    margin-right:5px;
+    margin-left: 5px;
+    padding-right: 156px;
+    padding-right: 156px;
+    outline: 2px solid red;
+}
+
+.section{
+    padding-top:120px;
+    padding-bottom:120px;
 }
 
 /* header */
