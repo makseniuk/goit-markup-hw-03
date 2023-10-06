@@ -51,9 +51,13 @@ img {
 
 /* header */
 
-.header-container {
+.header {
     border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
     display: flex;
+
 }
 
 .container {
@@ -107,7 +111,7 @@ img {
     color: #404bbf;
 }
 
-.menu{
+.menu {
     display: flex;
     gap: 40px;
 }
