@@ -256,45 +256,9 @@ background-color: #404BBF;
    padding: 32px 0;
 }
 
-.mark-guerrero-title{
-    text-align: center;
-    margin-bottom: 8px;
-}
-
-.mark-guerrero-text{
-    text-align: center;
-}
-
-.tom-ford-title{
-    text-align: center;
-    margin-bottom: 8px;
-}
-
-.tom-ford-text{
-    text-align: center;
-}
-
-.camila-garcia-title{
-    text-align: center;
-    margin-bottom: 8px;
-
-}
-
-.camila-garcia-text{
-    text-align: center;
-
-}
-
-.daniel-wilson-title{
-    text-align: center;
-    margin-bottom: 8px;
-}
-
-.daniel-wilson-text{
-    text-align: center;
-}
-
 .team-items-title {
+    text-align: center;
+    margin-bottom: 8px;
     color: #2E2F42;
         text-align: center;
         font-size: 20px;
@@ -340,42 +304,7 @@ background-color: #404BBF;
     width: calc((100% - 48px) / 3);
 }
 
-.banking-app-div{
-    padding: 32px16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.cashless-payment-div{
-    padding: 32px16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.meditation-app-div{
-    padding: 32px16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.taxi-service-dive{
-    padding: 32px16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.screen-illustrations-div{
-    padding: 32px16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.online-courses-div{
+.portfolio-card{
     padding: 32px16px;
     border: 1px solid #e7e9fc;
     border-top: none;
