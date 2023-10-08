@@ -96,7 +96,7 @@ img {
     margin-right: 76px;
 }
 
-.menu {
+.header-list{
     display: flex;
     gap: 40px;
 }
