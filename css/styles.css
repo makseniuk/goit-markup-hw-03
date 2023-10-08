@@ -197,6 +197,10 @@ background-color: #404BBF;
     padding: 120px 0;
 }
 
+.quality-title{
+    visibility: hidden;
+}
+
 .list-quality{
     display: flex;
     gap: 24px;
@@ -304,7 +308,43 @@ background-color: #404BBF;
     width: calc((100% - 48px) / 3);
 }
 
-.portfolio-card{
+.bank-app-div{
+    padding: 32px16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px
+}
+
+.cashless-payment-div{
+    padding: 32px16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px
+}
+
+.meditation-app-div{
+    padding: 32px16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px
+}
+
+.taxi-service-div{
+    padding: 32px16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px
+}
+
+
+.screen-illustrations-div{
+    padding: 32px16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px
+}
+
+.online-courses-div{
     padding: 32px16px;
     border: 1px solid #e7e9fc;
     border-top: none;
@@ -312,6 +352,7 @@ background-color: #404BBF;
 }
 
 .portflio-items-title {
+    margin-bottom: 8px;
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
