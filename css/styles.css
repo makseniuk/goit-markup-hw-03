@@ -102,15 +102,12 @@ img {
 }
 
 .header-items-link {
+    padding: 24px 0;
     color: #2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
-}
-
-.header-list-items {
-    padding: 24px 0;
 }
 
 .header-items-link:hover {
@@ -308,43 +305,7 @@ background-color: #404BBF;
     width: calc((100% - 48px) / 3);
 }
 
-.bank-app-div{
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.cashless-payment-div{
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.meditation-app-div{
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.taxi-service-div{
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-
-.screen-illustrations-div{
-    padding: 32px 16px;
-    border: 1px solid #e7e9fc;
-    border-top: none;
-    margin-bottom: 8px
-}
-
-.online-courses-div{
+.portfolio-card-div{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
